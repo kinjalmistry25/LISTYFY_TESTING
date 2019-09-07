@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>signup_testcase</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3198da58-e1bd-4a7a-82ca-2fb2466f786f</testCaseGuid>
+   <variable>
+      <defaultValue>'kinjal'</defaultValue>
+      <description></description>
+      <id>efbf7924-7ab1-47f1-a732-c6a1bdeccff6</id>
+      <masked>false</masked>
+      <name>Firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'mistry'</defaultValue>
+      <description></description>
+      <id>329ec408-0335-4bd8-8701-f6575d1a00c5</id>
+      <masked>false</masked>
+      <name>Lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>['', 'kinjalkinjal', 'kinjalmistry251296@gmail.com']</defaultValue>
+      <description></description>
+      <id>f40265e8-6526-49c1-ba81-870320bd61a3</id>
+      <masked>false</masked>
+      <name>Emails</name>
+   </variable>
+   <variable>
+      <defaultValue>['', '########', 'Kinjal251296']</defaultValue>
+      <description></description>
+      <id>2ae14f0c-c8ee-4431-a167-2b78cb775b76</id>
+      <masked>false</masked>
+      <name>Passwords</name>
+   </variable>
+</TestCaseEntity>
